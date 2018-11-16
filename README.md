@@ -1,4 +1,5 @@
 # AI Challenger 2018 细粒度用户评论情感分析
+[比赛主页](https://challenger.ai/competition/fsauor2018)  
 17th 解决方案，A榜 f1=0.71564，B榜 f1=0.71444，基于Aspect Level的思路，使用了两个模型。
 
 ## 运行
